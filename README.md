@@ -2,7 +2,7 @@
 
 **ML researcher · cybersecurity student · homelab engineer**
 
-I research equine posture classification from CCTV footage using YOLOv11 and PyTorch — PIBIC project at PUCPR, Curitiba, Brazil. Background split between Bolivia (UAGRM) and Brazil. I also build web tools, self-host my infrastructure, and study cybersecurity.
+I research equine posture classification from CCTV footage using YOLOv11 and PyTorch — PIBIC project at PUCPR, Curitiba, Brazil. I also build web tools, self-host my infrastructure, and study cybersecurity.
 
 ---
 
@@ -14,12 +14,12 @@ I research equine posture classification from CCTV footage using YOLOv11 and PyT
 
 ## Stack
 
-Python · PyTorch · PHP · JavaScript · MySQL · Docker · Linux
+Python · Rust · Java · PHP · JavaScript · HTML/CSS · Bash · MySQL · Docker · Linux
 
 ## Get in touch
 
 [gerard.gonzalez@pucpr.edu.br](mailto:gerard.gonzalez@pucpr.edu.br)  
-[LinkedIn](#) · [Blog / notes](#)
+[LinkedIn](https://www.linkedin.com/in/gerard-gonzalez-8778a9338/)
 
 ---
 
