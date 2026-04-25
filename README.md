@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Gerard%20Gonz%C3%A1lez&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=ML%20Researcher%20%C2%B7%20Full-Stack%20Dev%20%C2%B7%20Homelab%20Engineer%20%C2%B7%20Knowledge%20Architect&descAlignY=56&descSize=15" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=680&lines=Equine+Pose+Estimation+via+YOLOv8+on+CCTV+%F0%9F%90%8E%F0%9F%94%AC;Security-First+Full-Stack+Engineer+%F0%9F%94%90;743+Semantic+Drawers+%C2%B7+4+Obsidian+Vaults+%F0%9F%A7%A0;Self-Hosted+Everything%2C+Nothing+on+Someone+Else%27s+Cloud+%F0%9F%96%A5%EF%B8%8F;PIBIC%2FCNPq+Researcher+%40+PUCPR+%C2%B7+Curitiba%2C+Brazil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=680&lines=Equine+Pose+Estimation+via+YOLOv11+on+CCTV+%F0%9F%90%8E%F0%9F%94%AC;Security-First+Full-Stack+Engineer+%F0%9F%94%90;743+Semantic+Drawers+%C2%B7+4+Obsidian+Vaults+%F0%9F%A7%A0;Self-Hosted+Everything%2C+Nothing+on+Someone+Else%27s+Cloud+%F0%9F%96%A5%EF%B8%8F;PIBIC%2FCNPq+Researcher+%40+PUCPR+%C2%B7+Curitiba%2C+Brazil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing animation" />
 </p>
 
 <br>
@@ -19,12 +19,12 @@
 ## 🔬 Research Spotlight
 
 > [!IMPORTANT]
-> **Equine Posture Classification via YOLOv8 on CCTV** · PIBIC/CNPq @ PUCPR · 2024–2025
+> **Equine Posture Classification via YOLOv11 on CCTV** · PIBIC/CNPq @ PUCPR · 2024–2025
 >
 > Non-invasive, continuous welfare monitoring using computer vision on existing farm infrastructure — no wearables, no extra hardware, just cameras and models.
 >
 > **Pipeline:** Distributed training → local orchestrator over SSH to remote GPU worker  
-> **Architecture:** YOLOv8 fine-tuned with subject-wise cross-validation (no data leakage between animals)  
+> **Architecture:** YOLOv11 fine-tuned with subject-wise cross-validation (no data leakage between animals)  
 > **Tracking:** MLflow · every run logs δ, background ratio, augmentation config, and fold-level mAP  
 > **Design invariant:** Zero-copy dataset (CSV index over raw frames) · configurable hyperparams, nothing hardcoded
 
@@ -72,7 +72,7 @@
 
 | Project | Stack | Description |
 |---|---|---|
-| 🐎 **Equine Pose Classification** | Python · PyTorch · YOLOv8 · MLflow | PIBIC/CNPq — posture classification on CCTV for equine welfare, distributed training pipeline |
+| 🐎 **Equine Pose Classification** | Python · PyTorch · YOLOv11 · MLflow | PIBIC/CNPq — posture classification on CCTV for equine welfare, distributed training pipeline |
 | 🏠 **Property Registry Portal** | PHP · MySQL · TOTP/MFA | Security-critical full-stack app: custom auth, bcrypt, prepared statements, CSRF, rate limiting |
 | 📚 **UAGRM Exam Prep** | React · Node.js · Express · MySQL · Docker | Exam preparation platform for Bolivia's largest public university (UAGRM) |
 | 🧠 **MemPalace MCP Server** | Python · MCP · Semantic Search | Custom memory server for AI assistants — 743 semantic drawers indexed across 5 knowledge wings |
